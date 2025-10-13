@@ -1,0 +1,197 @@
+[
+    {
+        "id": 1,
+        "doctor_image": "https://i.ibb.co.com/NdyHYmSP/Dr-Sarah-Johnson.png",
+        "name": "Dr. Sarah Johnson",
+        "education": "MBBS, MD - General Medicine, DNB",
+        "speciality": "General Medicine",
+        "experience": "5+ Years",
+        "registration_number": "BD12451254",
+        "fees": 700,
+        "availability_days": [
+            "Mon",
+            "Wed",
+            "Fri"
+        ],
+        "working_hospital": "Apollo Hospitals Dhaka"
+    },
+    {
+        "id": 2,
+        "doctor_image": "https://i.ibb.co.com/Q3kSLyg2/Dr-Amit-Sharma.png",
+        "name": "Dr. Amit Sharma",
+        "education": "MBBS, MS - Orthopaedics",
+        "speciality": "Orthopaedic Surgeon",
+        "experience": "10+ Years",
+        "registration_number": "BD98765432",
+        "fees": 1000,
+        "availability_days": [
+            "Tue",
+            "Thu",
+            "Sat"
+        ],
+        "working_hospital": "United Hospital Limited"
+    },
+    {
+        "id": 3,
+        "doctor_image": "https://i.ibb.co.com/zWptPc8N/Dr-Farzana-Begum.png",
+        "name": "Dr. Farzana Begum",
+        "education": "MBBS, FCPS - Paediatrics",
+        "speciality": "Paediatrician",
+        "experience": "8+ Years",
+        "registration_number": "BD56789012",
+        "fees": 850,
+        "availability_days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "working_hospital": "Square Hospital"
+    },
+    {
+        "id": 4,
+        "doctor_image": "https://i.ibb.co.com/ZzpFhmBF/Dr-Elias-Chowdhury.png",
+        "name": "Dr. Elias Chowdhury",
+        "education": "MBBS, MRCP - Cardiology",
+        "speciality": "Cardiologist",
+        "experience": "15+ Years",
+        "registration_number": "BD34567890",
+        "fees": 1200,
+        "availability_days": [
+            "Sun",
+            "Tue",
+            "Thu"
+        ],
+        "working_hospital": "Dhaka Medical College Hospital"
+    },
+    {
+        "id": 5,
+        "doctor_image": "https://i.ibb.co.com/XfmWz1z4/Dr-Nadia-Islam.png",
+        "name": "Dr. Nadia Islam",
+        "education": "MBBS, DDVL - Dermatology",
+        "speciality": "Dermatologist",
+        "experience": "6+ Years",
+        "registration_number": "BD01234567",
+        "fees": 900,
+        "availability_days": [
+            "Mon",
+            "Fri",
+            "Sat"
+        ],
+        "working_hospital": "Apollo Hospitals Dhaka"
+    },
+    {
+        "id": 6,
+        "doctor_image": "https://i.ibb.co.com/TxBSNBBk/Dr-Rezaul-Karim.png",
+        "name": "Dr. Rezaul Karim",
+        "education": "MBBS, FRCS - General Surgery",
+        "speciality": "General Surgeon",
+        "experience": "12+ Years",
+        "registration_number": "BD23456789",
+        "fees": 1100,
+        "availability_days": [
+            "Wed",
+            "Sat"
+        ],
+        "working_hospital": "United Hospital Limited"
+    },
+    {
+        "id": 7,
+        "doctor_image": "https://i.ibb.co.com/JWtNThSK/Dr-Nusrat-Jahan.png",
+        "name": "Dr. Nusrat Jahan",
+        "education": "MBBS, DO - Ophthalmology",
+        "speciality": "Ophthalmologist",
+        "experience": "7+ Years",
+        "registration_number": "BD67890123",
+        "fees": 750,
+        "availability_days": [
+            "Tue",
+            "Wed",
+            "Fri"
+        ],
+        "working_hospital": "Square Hospital"
+    },
+    {
+        "id": 8,
+        "doctor_image": "https://i.ibb.co.com/ynL1BcXr/Dr-Hasan-Mahmood.png",
+        "name": "Dr. Hasan Mahmood",
+        "education": "MBBS, MD - Psychiatry",
+        "speciality": "Psychiatrist",
+        "experience": "9+ Years",
+        "registration_number": "BD45678901",
+        "fees": 1300,
+        "availability_days": [
+            "Mon",
+            "Thu"
+        ],
+        "working_hospital": "Dhaka Medical College Hospital"
+    },
+    {
+        "id": 9,
+        "doctor_image": "https://i.ibb.co.com/yBBmgmdh/Dr-Lubna-Akhter.png",
+        "name": "Dr. Lubna Akhter",
+        "education": "BDS, MDS - Endodontics",
+        "speciality": "Dentist",
+        "experience": "5+ Years",
+        "registration_number": "BD89012345",
+        "fees": 600,
+        "availability_days": [
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat"
+        ],
+        "working_hospital": "Apollo Hospitals Dhaka"
+    },
+    {
+        "id": 10,
+        "doctor_image": "https://i.ibb.co.com/ycNWx0vN/Dr-Kabir-Hossain.png",
+        "name": "Dr. Kabir Hossain",
+        "education": "MBBS, DM - Neurology",
+        "speciality": "Neurologist",
+        "experience": "14+ Years",
+        "registration_number": "BD11223344",
+        "fees": 1500,
+        "availability_days": [
+            "Wed",
+            "Fri"
+        ],
+        "working_hospital": "United Hospital Limited"
+    },
+    {
+        "id": 11,
+        "doctor_image": "https://i.ibb.co.com/TM1kh6Kf/Dr-Samira-Khan.png",
+        "name": "Dr. Samira Khan",
+        "education": "MBBS, DGO - Gynaecology",
+        "speciality": "Gynaecologist",
+        "experience": "11+ Years",
+        "registration_number": "BD22334455",
+        "fees": 950,
+        "availability_days": [
+            "Mon",
+            "Thu",
+            "Sat"
+        ],
+        "working_hospital": "Square Hospital"
+    },
+    {
+        "id": 12,
+        "doctor_image": "https://i.ibb.co.com/WWg3p258/Dr-Tanvir-Ahmed.png",
+        "name": "Dr. Tanvir Ahmed",
+        "education": "MBBS, MS - ENT",
+        "speciality": "ENT Specialist",
+        "experience": "7+ Years",
+        "registration_number": "BD33445566",
+        "fees": 800,
+        "availability_days": [
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+        ],
+        "working_hospital": "Dhaka Medical College Hospital"
+    }
+]
